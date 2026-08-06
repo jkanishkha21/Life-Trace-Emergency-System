@@ -49,3 +49,8 @@ Life Trace provides an automated safety mechanism that helps send alerts with lo
 
 Hackathon Project  
 Indo–French Collaboration Initiative
+## 🎨 Prototype
+
+View the interactive prototype here:
+
+[Life Trace Prototype](https://www.figma.com/make/CJDJVGI9QJEFJRKQXbbjEB/Life-Trace-Mobile-App-UI?fullscreen=1&t=EOuF77l9tLvnyo9a-1)
